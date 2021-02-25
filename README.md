@@ -22,7 +22,8 @@ Balance Amount - Current balance of account
 # Inspiration
 We want to detect fraud transactions and money laundering. It is the concealment of the origins of illegally obtained money, typically by means of transfers involving foreign banks or legitimate businesses.
 
-
+## Association
+![](https://github.com/Dhyani01/Bank-Statement-Classification/blob/main/Association.PNG)
 # Output Screenshots
 ![](https://github.com/Dhyani01/Bank-Statement-Classification-/blob/main/compare1.PNG)
 ![](https://github.com/Dhyani01/Bank-Statement-Classification-/blob/main/compare2.PNG)
